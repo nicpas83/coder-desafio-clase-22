@@ -1,0 +1,28 @@
+body{
+    padding: 15px;
+}
+
+
+.container{
+    padding: 15px;
+    background-color: #e8ecef;
+
+}
+
+#MainSection{
+    padding: 15px;
+}
+h1{
+    color: #0708d2;
+    font-size: 36px;
+}
+
+.user{
+    color: #0708d2;
+}
+.datetime{
+    color: #7c590e;
+}
+.message{
+    color: #36b603;
+}
